@@ -3,4 +3,4 @@ The app for analysis of bulk RNA-seq data made in shiny environment. Requires to
 
 The app allows for quick exploratory data analysis, providing access to PCA results, correlation analysis of samples or easy plotting of gene expression with boxplots. The app also allows for differential gene expression analysis with edgeR and visualisation of results with ggplot.
 
-So far, only supports annotations for rat genome- rnor6 are supported.
+So far, only annotations for rat genome- rnor6 are supported.
